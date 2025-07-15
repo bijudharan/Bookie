@@ -1,6 +1,7 @@
 This is a simple React-based Book Store frontend project. It displays a collection of books on the homepage with basic styling and layout.
 
 🛠️ Tech Stack
+
 React JS
 
 HTML & CSS
