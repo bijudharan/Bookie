@@ -1,3 +1,22 @@
+This is a simple React-based Book Store frontend project. It displays a collection of books on the homepage with basic styling and layout.
+
+🛠️ Tech Stack
+React JS
+
+HTML & CSS
+
+JavaScript
+
+Git & GitHub for version control
+
+✨ Features
+
+Homepage listing a collection of books
+
+Static book data displayed using React components
+
+Clean and responsive UI
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
